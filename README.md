@@ -1,2 +1,2 @@
 # Hello Github!
-New to this, excited to learn step by step.
+This is my first repository. New to this, very excited to learn step by step.
